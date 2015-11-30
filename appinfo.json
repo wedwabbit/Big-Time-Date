@@ -9,9 +9,9 @@
     "resources": {
         "media": [
             {
-                "file": "images/big_date_menu.png",
+                "file": "images/big_timedate_menu.png",
                 "menuIcon": true,
-                "name": "big_date_menu",
+                "name": "big_timedate_menu",
                 "type": "png"
             },
             {
@@ -74,7 +74,7 @@
         "chalk"
     ],
     "uuid": "65ba7588-1963-432c-b2d1-13be119ad0b9",
-    "versionLabel": "6.0",
+    "versionLabel": "6.2",
     "watchapp": {
         "watchface": true
     }
